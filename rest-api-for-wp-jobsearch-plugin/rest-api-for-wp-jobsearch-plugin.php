@@ -4,7 +4,7 @@
  * Plugin URI:        https://github.com/functioneelwit/rest-api-for-wp-jobsearch-plugin
  * Description:       Add WP REST API support for jobs in Jobsearch plugin.
  * Version:           1.0.0
- * Author:            Functioneelwit.nl
+ * Author:            Mattijs Wit
  * Author URI:        https://functioneelwit.nl/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
