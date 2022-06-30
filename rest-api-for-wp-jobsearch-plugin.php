@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name:       Rest API support for Jobsearch plugin
- * Plugin URI:        https://functioneelwit.nl/
+ * Plugin URI:        https://github.com/functioneelwit/rest-api-for-wp-jobsearch-plugin
  * Description:       Add WP REST API support for jobs in Jobsearch plugin.
  * Version:           1.0.0
  * Author:            Functioneelwit.nl
