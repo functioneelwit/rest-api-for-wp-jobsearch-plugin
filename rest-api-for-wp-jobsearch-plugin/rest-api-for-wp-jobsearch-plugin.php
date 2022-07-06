@@ -19,7 +19,7 @@
  add_filter( 'register_post_type_args', 'job_post_type_args', 10, 2 );
 
 function job_post_type_args( $args, $post_type ) {
-    if ( 'job' === $post_type ) {
+    if (in_array($post_type, ['job','employer']) ) {
         $args['show_in_rest'] = true;
     }
     return $args;
